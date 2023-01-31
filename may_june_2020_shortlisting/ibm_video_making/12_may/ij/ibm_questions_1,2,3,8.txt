@@ -1,0 +1,9 @@
+01)	Counter-Bully Chat-Bot:
+	We've built a chatbot that helps the students in institutions fight back against the misbehaviour done with them, and reply the bullting case non-violently.
+
+02)	We are students from 10th grade, and by this time every contemporary understands the importance support from the society. We have seen many bullying cases, whether in picturisation or live, and they deeply disturb the victims mind, which is not very healthy thing to happen. Thus, to take neccessary actions against this we have made a Counter-Bully Chat-bot which we think will help the buds blossum.
+
+03)	Our project addresses some United Nations Sustainable Development Goals, that those tend to be - Good health and Well-being, and peace, Justice and Strong Institutions.
+
+08)	We personlly have the AI vision for the future as:
+	Mass district monitoring and security systems powered by the most efficient AI companies in the world, just like the CTos (only for good use, though) as described in the famous game series - Watch_Dogs

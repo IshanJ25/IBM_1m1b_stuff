@@ -1,0 +1,37 @@
+From: Saffin Mathew <saffin@onemoneb.org>
+Sent: Friday, June 26, 2020 4:11:08 PM
+Subject: IBM AI Project Prototype submissions by 30 June
+ 
+Dear Students,
+
+Hope you all are working towards completing your AI prototypes.
+
+As mentioned earlier the program ends on 30 June 2020, Tuesday.
+
+I request all of you to kindly work with your IBM mentors for any guidance and build as much of the prototype as possible.
+
+We understand some of you have some limitations with respect to hardware and other issues, so we will take that into consideration. You can submit whatever you have built so far and share with us your project vision.
+
+Top projects selected by the judges will be provided further showcase opportunities.
+
+You would be required to submit the following:
+	1. A short video showing the working of your prototype (make sure you explain the working)
+	2. A PPT presentation with slides on - the problem being solved, your solution description, details of AI used in your project, working of the prototype, 		   components, hardware, software used in the prototype, images/video of your prototype,  Links to your code if any
+	3. Also include your learnings from the program and project development in the PPT
+	4. On the first slide mention your project name, school name, team members, IBM mentor name
+	5. The second slide should have the contact details of all team members (email and phone number)
+
+Request you to kindly upload the video and PPT on this Google Drive by creating a folder with your project name:
+https://drive.google.com/drive/folders/1n0GZ22hLCrQEYOnib4_jsTM3zWxH1xX-?usp=sharing
+
+Please make your submission by 30 June 2020. 
+
+No submissions will be entertained post 30 June.
+
+--
+Thanks,
+
+Saffin Mathew
+Program Manager 
+1M1B (1 Million for 1 Billion)
+Mob: +91 99723 41775

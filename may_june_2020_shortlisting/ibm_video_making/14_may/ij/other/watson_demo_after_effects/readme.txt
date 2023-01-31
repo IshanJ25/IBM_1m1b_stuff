@@ -1,0 +1,1 @@
+The 5:9 ratio video file must be on desktop while working with the after-efftect file. Thanks for reading
